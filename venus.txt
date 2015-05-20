@@ -1,4 +1,4 @@
-Venus is another planet.
+Venus is another planet. Lorem ipsum.
 
 Venus is the second planet.
 
